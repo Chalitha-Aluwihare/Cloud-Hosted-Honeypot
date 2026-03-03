@@ -1,6 +1,6 @@
-# 🐝 Cloud Hosted Honeypot Project (Azure)
+#  Cloud Hosted Honeypot Project (Azure)
 
-## 📌 Project Description
+##  Project Description
 
 This project focuses on deploying a cloud-hosted honeypot in Microsoft Azure to study real-world cyber attacks in a controlled environment.
 
@@ -13,26 +13,26 @@ The system is intentionally exposed to the internet for monitoring:
 
 ---
 
-# 🗂 Project Structure
+#  Project Structure
 
 | Stage | Description | Status |
 |--------|------------|---------|
-| Stage 01 | Azure VM Deployment & Network Setup | ✅ Completed |
-| Stage 02 | Honeypot Platform Installation (T-Pot) | 🔄 Ongoing |
-| Stage 03 | Log Monitoring & Visualization | ⏳ Pending |
-| Stage 04 | Security Hardening & Alerting | ⏳ Pending |
+| Stage 01 | Azure VM Deployment & Network Setup |  Completed |
+| Stage 02 | Honeypot Platform Installation (T-Pot) |  Ongoing |
+| Stage 03 | Log Monitoring & Visualization |  Pending |
+| Stage 04 | Security Hardening & Alerting |  Pending |
 
 ---
 
-# 📊 Overall Progress
+#  Overall Progress
 
-🟢 Infrastructure Setup – 100%  
-🟡 Honeypot Installation – 20%  
-🔴 Monitoring & Dashboard – 0%  
+ Infrastructure Setup – 100%  
+ Honeypot Installation – 20%  
+ Monitoring & Dashboard – 0%  
 
 ---
 
-# ☁️ Cloud Environment
+#  Cloud Environment
 
 - Provider: Microsoft Azure
 - Subscription: Azure for Students
@@ -42,15 +42,10 @@ The system is intentionally exposed to the internet for monitoring:
 
 ---
 
-# 📌 Current Status
+#  Current Status
 
 The virtual machine is deployed and publicly accessible.  
 Basic system preparation is completed.  
 Honeypot framework installation is in progress.
 
 ---
-
-# 👤 Author
-
-Chalitha Aluwihare  
-Cyber Security Undergraduate – Sri Lanka
