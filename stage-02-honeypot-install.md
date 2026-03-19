@@ -13,7 +13,7 @@ Install and configure the T-Pot multi-honeypot platform on the deployed Azure De
 - Public IP: <Your-Public-IP>
 - Access Method: SSH Key Authentication
 
----
+--
 
 # 1️System Preparation
 
